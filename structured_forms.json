@@ -1,0 +1,109 @@
+[
+    {
+        "form_name": "Application_for_PPFLoan_Withdrawal.pdf",
+        "fields": [
+            {
+                "label": "Amount",
+                "type": "text"
+            },
+            {
+                "label": "Name",
+                "type": "text"
+            },
+            {
+                "label": "Account",
+                "type": "text"
+            }
+        ],
+        "raw_text": "FORM - 2\n[See sub-paragraph (1) of paragraph 8 and paragraph 10]\n(Application for Loan/Withdrawal)\nTo,\nThe Postmaster/Manager\n…………………………………………………\n…………………………………………………\nSir,\nI ……………………………………………………………..(account holder /guardian) hereby\napply for loan/withdrawal from my account as per details below:-\nAccount Number:........................................................................................\nAmount of Loan/withdrawal applied...........................................................\n*Certified, that the amount sought to be withdrawn/loan to be availed is required for the use\nof ………………………………………who is alive and still a Minor.\n2. Please Credit the amount of loan/withdrawal to my SB Account\nno.________________________ standing at______________________(Name of Account office).\nor\nPlease issue a Demand Draft/account payee cheque\nor\nPlease pay in cash (applicable if the amount is below permissible limit of cash payment).\n3. I certify that all the provisions applicable under scheme for grant of withdrawal/loan have been\ncomplied with.\nNecessary documents as applicable are attached as under:-\n1.\n2.\nDate:-______________ Signature or thumb impression of account holder/guardian\nAttested By__________________\n(Attestation is applicable in case of thumb impression)\nFor office use only\nPayment detail\nAmount available in Account Rs ._____________________________________\nDate of Initial Subscription __________________________________________\nDate on which last withdrawal/loan was allowed _________________________\nTotal Amount granted for withdrawal/loan Rs ._________________(In figures)\n(In words)________________________________________________________\nDate Stamp Signature of Postmaster/Manager\n--------------------------------------------------------------------------------------\nAcquittance\n(to be filled by account holder)\nReceived Rs ._____________(In figures)______________________ (in words) By cash/cheque/DD\nbearing no…………………………………….dated…………………./by transfer to Account\nNo...............................\nDate Signature/thumb impression of account holder /guardian"
+    },
+    {
+        "form_name": "CHEQUE BOOK REQUEST FORM.pdf",
+        "fields": [
+            {
+                "label": "Name",
+                "type": "text"
+            },
+            {
+                "label": "Account",
+                "type": "text"
+            }
+        ],
+        "raw_text": "To: The Manager\nState Bank of India,\nMale’, Rep of Maldives\nCHEQUE BOOK REQUEST FORM\nDate: ………………………………………..\nISSUE OF CHEQUE BOOK(S)\n I/We request to issue ( ) numbers Cheque Book(s) to our / my below mentioned CA / SB\naccount(s).\n I/We agree to deduct my Account with the charges for the ordered cheque books:\n(I.e. MVR 60/- USD 4/-for SB a/c & MVR 180/- USD 12/- for CA per cheque book).\n I/We undertake to collect the cheque book(s) from the Bank after 5-7 working days from\nsubmitting the request and if I/We fail to collect cheque books, Bank may cancel or\ndestroy the cheque book after 15 days for which the Bank shall not refund the\ncharges.\n I/We confirm having maintained minimum balance prescribed by the Bank (i.e. SB Account\n– USD 100/MVR 1000 or CA – USD 2000/MVR 10,000) in my/our account and I/we\nundertake to maintain the same throughout the operation of the a/c.\nNAME of Account Holder: ……………………………………………………………………………\nNID/WP: ………………………………………………………………………………………………….\nTel/Mobile: ……………………………………………………………………………………..\nAccount Number(s)\nAccount No. Currency\n1 2 6  USD  MVR\n1 2 6  USD  MVR\nSignature of the Authorized Signatory(s)\nOver Company’s/ Firm’s Seal, in case of non-individual accounts\nSBI, Male’/Maamigili/Addu Branch Acknowledgement for Cheque Book Issue Request Date: …………..\nName: ………………………………….....................................\nAccount Number(s)\nAccount No. Currency\n1 2 6  USD  MVR\n1 2 6  USD  MVR\nPlease collect Cheque books AFTER 3 WORKING DAYS but BEFORE 10 WORKING DAYS without fail."
+    },
+    {
+        "form_name": "common_deposit_account_opening_form_effective_from_01.11.2023.pdf",
+        "fields": [],
+        "raw_text": ""
+    },
+    {
+        "form_name": "KYC UPDATION FORM INDIVIDUAL.pdf",
+        "fields": [
+            {
+                "label": "Gender",
+                "type": "text"
+            },
+            {
+                "label": "Father",
+                "type": "text"
+            },
+            {
+                "label": "Address",
+                "type": "text"
+            },
+            {
+                "label": "Aadhar",
+                "type": "text"
+            },
+            {
+                "label": "Name",
+                "type": "text"
+            },
+            {
+                "label": "Account",
+                "type": "text"
+            }
+        ],
+        "raw_text": "Annexure B\nKYC UPDATION FORM INDIVIDUAL\nDate: D D M M Y Y Y Y\nBranch Name : Branch Code\nFields marked asterix (*) are mandatory.Please fill up in BLOCK letters only and use black ink for signature Bank/Branchto affix rubber stamp of\nname and code no.\n(For office use only)\nCustomer ID:\nAccount No.: CKYC No.:\n(Mandatory for CKYC update request)\n1 Personal Details\nExisting Customer ID: (If applicable)\nName*: F I R S T N A M E M I D D L E N A M E L A S T N A M E\n(Same as ID Proof) Prefix\nMaiden Name : F I R S T N A M E M I D D L E N A M E L A S T N A M E\nDate of Birth*: D D M M Y Y Y Y Gender* Male Female Transgender Marital Status* Married Unmarried Others\nPrefix\nName of Father/Mother F I R S T N A M E M I D D L E N A M E L A S T N A M E\n/Spouse* (Please Tick One) (Father's name is mandatory if PAN is not provided)\nNo. of Dependents\nIlliterate YES NO if yes : Identification Marks :\nPrefix\nName of Guardian F I R S T N A M E M I D D L E N A M E L A S T N A M E\n(In Case Of Minor*) Relationship with Guardian\nNationality*: In-Indian Others Country Name:\nOccupation Type* S-Service Private Sector Public Sector Government Sector\nO-Others Professional Self employed Retired House Wife Student\nB-Business X-Not categorised-Please specify……………………………………………………………………………………………….\nMonthly Income*: Rs. Net Worth(approx value) Rs.\nSource of Income Salary Business Income Agriculture Investment Income Pension Others\n(Please tick all applicable)\nReligion: Hindu Muslim Christian Sikh Others …………………………………………………………………………..\nCategory: General OBC SC ST\nPerson with disability Yes No If yes, i. Visually impaired ii. Differently abled\nEducational Qualification: Below SSC SSC HSC Graduate Post Graduate Professional Others\nOrganization's Name: Designation/Profession: Nature of Business:\nPlease Tick the Applicable box*: Politically exposed Person Related to politically Exposed Person None\nISO 3166 Country Code of Jurisdiction of Residence* (Code for India is IN)\nPlace/City of Birth* ISO 3166 Country of Code of Birth* Citizenship\nCountry of Tax Residence in India only and not in any other country or territory outside India* Yes No (If No, please fill the FATCA details form - Annexure II)\nPAN*/Tax Identification Number or equivalent (If issued by jurisdication) (If PAN is not submitted, submit Form 60 - Annexure I)\n2 Contact Details (All communications will be sent on provided Mobile No./Email-ID)\nMobile No. Email ID\nS T D Tel.(Off): S T D\nTel.(Res):\n3 Proof of Identity/Address (Please tick the appropriate Box (any one ID type) and give details)*\nA-PASSPORT B-VOTER'S IDENTITY CARD C-DRIVING LICENCE D-UID(AADHAR)\nE-NREGA JOB CARD F-LETTER ISSUED BY NATIONAL POPULATION REGISTER CONTAINING DETAILS OF NAME & ADDRESS\nDocument No/Identification Number*\nIssue Date:* D D M M Y Y Y Y Expiry Date (If applicable):* D D M M Y Y Y Y\n4 Address details Current Permanent Overseas\nAddress type* Residential/Business Residential Business Registered Office Unspecified\nAddress*\nCity/Village*: District*:\nState:* Pin:*\n5 Address details Correpondence Local Same as Current/Permanent Address\nAddress type* Residential/Business Residential Business Registered Office Unspecified\nAddress*\nCity/Village:* District*:\nState:* Pin:*\n6 If the Proof of Address(OVD) provided does not contain current address-please provide any of the documents below.\nUtility Bill PPO/FPPO Property or Municipal tax receipt\nLetter of allotment of accomodation issued by employer/ issued by State or Central Government departments, statutory or regulatory bodies, Public sector\nundertaking, scheduled commercial banks, financial institutions and listed companies. Similarly, leave and license agreements with such employers allotting official\naccomodation.\nDocument No Date: D D M M Y Y Y Y\n7 DECLARATION CUM UNDERTAKING CUM SELF–CERTIFICATION\nI have read the copy of Terms and Conditions of the Account Opening given to me. The Terms and Conditions have been explained to me/us and\nhaving understood, I accept the same.\n1I hereby declare that I have submitted the Aadhaar Card issued by UIDAI voluntarily for identification and /or address proof towards the compliance of KYC norms under the PMLA, 2002\n2I hereby consent that the Bank may verify the same with the UIDAI and authorise the UIDAI expressly to release the identity and address through biometric authentication to the Bank\nYES NO\n3. I agree that my personal KYC details may be shared with Central KYC registry or any other competent authority.I hereby consent to receive information from the Bank/Central KYC Registry/GoI/\nRBI or any other authority through SMS/e-mail on my registered mobile number/ e-mail address. I also agree that the non-receiptof any such SMS/e-mail shall not make the Bank liable for any\nloss or damage whatsoever in nature.\nPHOTO*\nPlease Paste Signature/Thumb impression of the Applicant\nPlease sign in black ink only\nRecent passport Size\n(Do not Staple)\nPlace: Date: D D M M M Y Y Y Y\n8 FOR OFFICE USE/ATTESTATION\n1. PAN details (if available) have been verified from database issuing authority.\n2. Information submitted by the customer verified & updated in the CBS. .\n3. KYC updation date entered in CBS.\nMaker……………………….. Checker……………………………\nPF No.......................... (S.S. No______________)\n(This form is to be sent to LCPC for digitisation and storage)"
+    },
+    {
+        "form_name": "PPF_account_opening.pdf",
+        "fields": [
+            {
+                "label": "Father",
+                "type": "text"
+            },
+            {
+                "label": "Amount",
+                "type": "text"
+            },
+            {
+                "label": "Phone",
+                "type": "text"
+            },
+            {
+                "label": "Address",
+                "type": "text"
+            },
+            {
+                "label": "Name",
+                "type": "text"
+            },
+            {
+                "label": "Account",
+                "type": "text"
+            }
+        ],
+        "raw_text": "FORM - 1\n[See sub-paragraph (1) of paragraph 3]\n(Application for opening an account)\nTo\nThe Postmaster/Manager\n………………………………………………… Paste p hotograph of applicant/s\n…………………………………………………\nSir,\nI ………………………..(account holder/guardian) hereby apply for opening of an account\nunder Public Provident Fund Scheme.\nI tender herewith Rs……………………../-\n(Rs…………………………………………………………………………….) in cash/Cheque/DD.\nNo………………… date………. as initial deposit. My particulars are as under:-\n1. Name of account holder\n……………………………………………………………\nHusband/Father /mother’s name\n……………………………………………………………\nDate of Birth ……… ..……… ………………\n(DD / MM / YYYY )\n(In\nwords)……………………………………………\nOR\n2. Name of minor account holder\n……………………………………………………………\nFather /mother’s name or the guardian\n……………………………………………………………\nDate of Birth ……… ..……… ………………\n(DD / MM / YYYY )\n(In\nwords)……………………………………………\n3. Aadhaar Number of account holder/guardian\n…………………………………………………………..\n4. Permanent Account Number (PAN) of account holder /guardian\n…………………………………………………………..\n5. Present Address ………………………………………………………….\n…………………………………………………………..\nPermanent Address ………………………………………………………….\n………………………………………………………….\n6. Contact details Telephone Number……………………………..\nMobile Number…………………………………..\nEmail ID……………………………………………..\n7. Type of Account Single or through Guardian for Minor or\nperson of unsound mind or blind or differently\nabled through authorized person.\n8. (*)Details of date of birth proof ……………………………………………………….\n(Applicable in case of minor account)\na) Certificate No.\n……………………………………………………………………..\nb) Date of Issue\n…………………………………………………………………….\nc) Issuing authority\n…………………………………………………………………….\n9. (*) Name of Guardian (Natural/Legal) …………………………………………………………\n(In case the account is opened on behalf of a\nMinor/person of unsound mind)\n10. Details of other KYC documents attached 1. Proof of identification\n…………………………………………………………\n2. Address proof\n…………………………………………………………\n11. (The following documents are accepted as valid documents for the purpose of identification and\naddress proof: 1. Passport 2. Driving license 3. Voter’s ID card 4. Job card issued by NREGA signed\nby the State Government officer 5. Letter issued by the National Population Register containing\ndetails of name and address);\n1. The operation of the account will be:- (a) By the Guardian till the account holder attains majority.\n(b) By the account holder on attaining majority,\n12. Specimen Signatures\n1…………………………2……………………………. 3.,……………………………\n(Name)…………………………………………………………\nI hereby declare that I have not opened a Public Provident Fund Account in the name of the\nmyself/minor mentioned at serial number 1 in any of the Post office/Bank in the country.\nI further declare that I will abide by the ceiling of maximum deposit in the accounts opened in my\nname and in the name of minors as per provision of paragraph 4 and any deposit in excess of the\nceiling will be treated as in contravention to the Scheme.\nI further declare that I and the minor both are Resident citizen of India and undertake to inform\nthe account office of any change in our residency/citizenship status in future.\nI hereby undertake to abide by the scheme provisions and Government Savings Promotion rules-\n2018 applicable on the Scheme and amendments issued thereto from time to time.\nSignature or thumb impression of account holder /guardian\nDate:……………………\nNomination\n13. I…………………………………………..hereby nominate the person(s) mentioned below to whom\nto the exclusion of all other persons in the event of my death the amount standing to my credit at the\ntime of my death would be payable.\nS.No. Name(s) of the Full address (s) Aadhaar Date of birth Share of Nature of\nnominee(s) number of of nominee entitlement entitlement\nand nominee in case of Trustee or\nrelationship (optional) minor owner\n1\n2\n3\n4\nAs the nominee(s) at Serial No.(s)…………………………………….specified above is/are minor(s), I\nappoint\nShri/Smt/Kumari………………………………………………..S/o,D/o,W/o…………………………………\n………………………………………..Address…………………………………………………………………\n…………………………………………………………………………………………….to receive the sum\ndue under the said account in the event of my death during the minority of the nominee(s).\n1. Signature of witness…………………………………….\nName & Address……………………………………………..\n2. Signature of witness…………………………………….\nName & Address……………………………………………..\nSignature or thumb impression of account holder or guardian\nPlace:\nDate:\nFor use of Post Office/Bank\nThe account has been opened in the name\nof…………………………………on……………………..with initial deposit of\nRs………………………………………. with Account No.__________________________\ndated______________________________.\nCustomer identification Number………………………………..\nNomination has been registered vide\nNo……………………………………..dated………………………………………..\nSignature and seal of competent authority."
+    },
+    {
+        "form_name": "RTGS NEFT REQUISITION FORM.pdf",
+        "fields": [],
+        "raw_text": "Annexure 1"
+    },
+    {
+        "form_name": "_ATM_CARD_FORM.pdf",
+        "fields": [],
+        "raw_text": ""
+    }
+]
